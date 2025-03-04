@@ -1,2 +1,3 @@
 ## Hi there 👋
-I will be adding something here soon
+
+[![My Skills](https://skillicons.dev/icons?i=python3,obsidian)](https://skillicons.dev)
