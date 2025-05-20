@@ -7,17 +7,41 @@
 - [ ] `Differential Equations`
 - [ ] `Statistics`
 
-## Testing colorschemes
-<div align="left>
- <img src="https://deviconapi.vercel.app/python?color=fbf1c7FF&size=29" alt="python" title="python"/>
- 
+## I have experience with
+<div align="left">
+ <!-- programming languages -->
+ <img src="https://deviconapi.vercel.app/python?color=b57614FF&size=30" alt="python logo" title="Python3"/>
+ <img width="12" />
+ <img src="https://deviconapi.vercel.app/jupyter?color=b57614FF&size=30" alt="jupyter logo" title="Jupyter Notebooks"/>
+ <img width="12" />
+
+ <!-- commandline tools -->
+ <img src="https://deviconapi.vercel.app/anaconda?color=b57614FF&size=30" alt="anaconda logo" title="Anaconda"/>
+ <img width="12" />
+ <img src="https://deviconapi.vercel.app/github?color=b57614FF&size=30" alt="github logo" title="Git"/>
+ <img width="12" />
+
+ <!-- code editors -->
+ <img src="https://deviconapi.vercel.app/vscode?color=b57614FF&size=30" alt="vscode logo" title="Visual Studio Code"/>
+ <img width="12" />
+
+ <!-- operating systmes -->
+ <img src="https://deviconapi.vercel.app/linux?color=b57614FF&size=30" alt="linux logo" title="Linux"/>
+ <img width="12" />
+ <img src="https://deviconapi.vercel.app/raspberrypi?version=line&color=b57614FF&size=30" alt="raspberrypi logo" title="Raspberry Pi"/>
+ <img width="12" />
+ <img src="https://deviconapi.vercel.app/ubuntu?color=b57614FF&size=30" alt="ubuntu logo" title="Ubuntu"/>
+ <img width="12" />
+ <img src="https://deviconapi.vercel.app/windows8?color=b57614FF&size=30" alt="windows 11 logo" title="Windows 11"/>
+ <img width="12" />
 </div>
+
 ## I have experience with
  <div align="left">  
   <!-- programming languages -->
   <img alt="Python3" title="Python3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img alt="Jupyter Notebooks" title="Jupyter Notebooks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img alt="Jupyter Notebooks" title="Jupyter Notebooks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg?color=fbf1c7FF" height="30" alt="jupyter logo"  />
   <img width="12" />
 
   <!-- programming tools -->
