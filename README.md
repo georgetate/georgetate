@@ -10,7 +10,7 @@
 ## I have experience with
 <div align="left">
  <!-- programming languages -->
- <img src="https://raw.githubusercontent.com/georgetate/georgetate/blob/main/media/python.svg" height="40px" alt="python logo" title="Python3"/>
+ <img src="https://raw.githubusercontent.com/georgetate/georgetate/542288294706481f2ce36c0ffc767a4cd66e960c/media/python.svg" height="40px" alt="python logo" title="Python3"/>
  <img width="12" />
  <img src="https://raw.githubusercontent.com/georgetate/georgetate/b4d44467c34bfe9ca3e3787c6385cd5bc3d45533/media/jupyter.svg" height="40px" alt="jupyter logo" title="Jupyter Notebooks"/>
  <img width="12" />
