@@ -1,7 +1,7 @@
-## Currently Learning
 
 ![spongebob learning gif](https://github.com/georgetate/georgetate/blob/main/media/spongebob_learning.webp)
 
+## Currently Learning
 - [ ] `Calculus 3`
 - [ ] `Linear Algebra`
 - [ ] `Differential Equations`
@@ -10,64 +10,64 @@
 ## I have experience with
 <div align="left">
  <!-- programming languages -->
- <img src="https://github.com/georgetate/georgetate/blob/main/media/python.svg" height="30" alt="python logo" title="Python3"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/python.svg" height="40" alt="python logo" title="Python3"/>
  <img width="12" />
- <img src="https://github.com/georgetate/georgetate/blob/main/media/jupyter.svg" height="30" alt="jupyter logo" title="Jupyter Notebooks"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/jupyter.svg" height="40" alt="jupyter logo" title="Jupyter Notebooks"/>
  <img width="12" />
 
  <!-- commandline tools -->
- <img src="https://github.com/georgetate/georgetate/blob/main/media/anaconda.svg" height="30" alt="anaconda logo" title="Anaconda"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/anaconda.svg" height="40" alt="anaconda logo" title="Anaconda"/>
  <img width="12" />
- <img src="https://github.com/georgetate/georgetate/blob/main/media/github.svg" height="30" alt="github logo" title="Git"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/github.svg" height="40" alt="github logo" title="Git"/>
  <img width="12" />
 
  <!-- code editors -->
- <img src="https://github.com/georgetate/georgetate/blob/main/media/vscode.svg" height="30" alt="vscode logo" title="Visual Studio Code"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/vscode.svg" height="40" alt="vscode logo" title="Visual Studio Code"/>
  <img width="12" />
 
  <!-- operating systmes -->
- <img src="https://github.com/georgetate/georgetate/blob/main/media/linux.svg" height="30" alt="linux logo" title="Linux"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/linux.svg" height="40" alt="linux logo" title="Linux"/>
  <img width="12" />
- <img src="https://github.com/georgetate/georgetate/blob/main/media/raspberrypi.svg" height="30" alt="raspberrypi logo" title="Raspberry Pi"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/raspberrypi.svg" height="40" alt="raspberrypi logo" title="Raspberry Pi"/>
  <img width="12" />
- <img src="https://github.com/georgetate/georgetate/blob/main/media/ubuntu.svg" height="30" alt="ubuntu logo" title="Ubuntu"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/ubuntu.svg" height="40" alt="ubuntu logo" title="Ubuntu"/>
  <img width="12" />
- <img src="https://github.com/georgetate/georgetate/blob/main/media/windows_11.svg" height="30" alt="windows 11 logo" title="Windows 11"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/windows_11.svg" height="40" alt="windows 11 logo" title="Windows 11"/>
  <img width="12" />
 </div>
 
 ## I would like to learn
 <!-- stuff for creating websites -->
  <div align="left">
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/html5.svg" height="30" alt="html5 logo" title="HTML5"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/html5.svg" height="40" alt="html5 logo" title="HTML5"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/css3.svg" height="30" alt="css3 logo" title="CSS3"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/css3.svg" height="40" alt="css3 logo" title="CSS3"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/javascript.svg" height="30" alt="javascript logo" title="JavaScript"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/javascript.svg" height="40" alt="javascript logo" title="JavaScript"  />
   <img width="12" />
 
   <!-- stuff for making video games in unity -->
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/csharp.svg" height="30" alt="csharp logo" title="C Sharp"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/csharp.svg" height="40" alt="csharp logo" title="C Sharp"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/unity.svg" height="30" alt="unity logo" title="Unity"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/unity.svg" height="40" alt="unity logo" title="Unity"  />
   <img width="12" />
 
   <!-- stuff for making video games in unreal engine -->
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/cplusplus.svg" height="30" alt="cplusplus logo" title="C++"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/cplusplus.svg" height="40" alt="cplusplus logo" title="C++"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/unrealengine.svg" height="30" alt="unrealengine logo" title="Anaconda"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/unrealengine.svg" height="40" alt="unrealengine logo" title="Anaconda"  />
   <img width="12" />
 
   <!-- stuff for making containers -->
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/docker.svg" height="30" alt="docker logo" title="Docker"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/docker.svg" height="40" alt="docker logo" title="Docker"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/kubernetes.svg" height="30" alt="kubernetes logo" title="Kubernetes"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/kubernetes.svg" height="40" alt="kubernetes logo" title="Kubernetes"  />
   <img width="12" />
 
   <!-- stuff for editing and creating media -->
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/photoshop.svg" height="30" alt="photoshop logo" title="Photoshop"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/photoshop.svg" height="40" alt="photoshop logo" title="Photoshop"  />
   <img width="12" />
-  <img src="https://github.com/georgetate/georgetate/blob/main/media/blender.svg" height="30" alt="blender logo" title="Blender"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/blender.svg" height="40" alt="blender logo" title="Blender"  />
   <img width="12" />
 </div>
 
@@ -80,16 +80,16 @@
 
 ## Links
 <div align="left">
-  <!-- adding a youtube channel link soon
+  <!-- adding a youtube channel link soon -->
   <a href="https://www.youtube.com/channel/UCeAj0e_DBIPyrskqIhC44Vw">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=F2E5BC&logoColor=B57614&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://github.com/georgetate/georgetate/blob/main/media/youtube.svg" height="35" alt="youtube shield"  />
   </a>
-  -->
+  
   
 
   <!-- instagram portfolio link -->
   <a href="https://www.instagram.com/georgetate31/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F2E5BC&logoColor=B57614&messageColor=B57614&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://github.com/georgetate/georgetate/blob/main/media/instagram.svg" height="35" alt="instagram shield"  />
   </a>
   
   <!-- adding a personal website portfolio soon
@@ -100,7 +100,7 @@
 
   <!-- linkedin link -->
   <a href="https://linkedin.com/in/george-tate-7a6595340">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gVXBsb2FkZWQgdG86%0AIFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9v%0AbHMgLS0%2BCjxzdmcgZmlsbD0iI0I1NzYxNCIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2%0AaWV3Qm94PSIwIDAgMzIgMzIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3Jn%0ALzIwMDAvc3ZnIj4NCjx0aXRsZT5saW5rZWRpbjwvdGl0bGU%2BDQo8cGF0aCBkPSJNMjguNzc4IDEu%0AMDA0aC0yNS41NmMtMC4wMDgtMC0wLjAxNy0wLTAuMDI3LTAtMS4xOTkgMC0yLjE3MiAwLjk2NC0y%0ALjE4NiAyLjE1OXYyNS42NzJjMC4wMTQgMS4xOTYgMC45ODcgMi4xNjEgMi4xODYgMi4xNjEgMC4w%0AMTAgMCAwLjAxOS0wIDAuMDI5LTBoMjUuNTU1YzAuMDA4IDAgMC4wMTggMCAwLjAyOCAwIDEuMiAw%0AIDIuMTc1LTAuOTYzIDIuMTk0LTIuMTU5bDAtMC4wMDJ2LTI1LjY3Yy0wLjAxOS0xLjE5Ny0wLjk5%0ANC0yLjE2MS0yLjE5NS0yLjE2MS0wLjAxMCAwLTAuMDE5IDAtMC4wMjkgMGgwLjAwMXpNOS45IDI2%0ALjU2MmgtNC40NTR2LTE0LjMxMWg0LjQ1NHpNNy42NzQgMTAuMjkzYy0xLjQyNSAwLTIuNTc5LTEu%0AMTU1LTIuNTc5LTIuNTc5czEuMTU1LTIuNTc5IDIuNTc5LTIuNTc5YzEuNDI0IDAgMi41NzkgMS4x%0ANTQgMi41NzkgMi41Nzh2MGMwIDAuMDAxIDAgMC4wMDIgMCAwLjAwNCAwIDEuNDIzLTEuMTU0IDIu%0ANTc3LTIuNTc3IDIuNTc3LTAuMDAxIDAtMC4wMDIgMC0wLjAwMyAwaDB6TTI2LjU1NiAyNi41NjJo%0ALTQuNDQxdi02Ljk1OWMwLTEuNjYtMC4wMzQtMy43OTUtMi4zMTQtMy43OTUtMi4zMTYgMC0yLjY2%0AOSAxLjgwNi0yLjY2OSAzLjY3M3Y3LjA4MmgtNC40NDF2LTE0LjMxMWg0LjI2NnYxLjk1MWgwLjA1%0AOGMwLjgyOC0xLjM5NSAyLjMyNi0yLjMxNSA0LjAzOS0yLjMxNSAwLjA2MSAwIDAuMTIxIDAuMDAx%0AIDAuMTgxIDAuMDAzbC0wLjAwOS0wYzQuNSAwIDUuMzMyIDIuOTYyIDUuMzMyIDYuODE3djcuODU1%0AeiI%2BPC9wYXRoPg0KPC9zdmc%2BCg%3D%3D&label=&color=F2E5BC&logoColor=&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://github.com/georgetate/georgetate/blob/main/media/linkedin.svg" height="35" alt="linkedin shield" />
   </a>
 </div>
 
