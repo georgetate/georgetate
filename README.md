@@ -39,35 +39,35 @@
 ## I would like to learn
 <!-- stuff for creating websites -->
  <div align="left">
-  <img alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/html5.svg" height="30" alt="html5 logo" title="HTML5"  />
   <img width="12" />
-  <img alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/css3.svg" height="30" alt="css3 logo" title="CSS3"  />
   <img width="12" />
-  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/javascript.svg" height="30" alt="javascript logo" title="JavaScript"  />
   <img width="12" />
 
   <!-- stuff for making video games in unity -->
-  <img alt="C Sharp" title="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/csharp.svg" height="30" alt="csharp logo" title="C Sharp"  />
   <img width="12" />
-  <img alt="Unity" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/unity.svg" height="30" alt="unity logo" title="Unity"  />
   <img width="12" />
 
   <!-- stuff for making video games in unreal engine -->
-  <img alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/cplusplus.svg" height="30" alt="cplusplus logo" title="C++"  />
   <img width="12" />
-  <img alt="Unreal Engine" title="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/unrealengine.svg" height="30" alt="unrealengine logo" title="Anaconda"  />
   <img width="12" />
 
   <!-- stuff for making containers -->
-  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/docker.svg" height="30" alt="docker logo" title="Docker"  />
   <img width="12" />
-  <img alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/kubernetes.svg" height="30" alt="kubernetes logo" title="Kubernetes"  />
   <img width="12" />
 
   <!-- stuff for editing and creating media -->
-  <img alt="Photoshop" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/photoshop.svg" height="30" alt="photoshop logo" title="Photoshop"  />
   <img width="12" />
-  <img alt="Blender" title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img src="https://github.com/georgetate/georgetate/blob/main/media/blender.svg" height="30" alt="blender logo" title="Blender"  />
   <img width="12" />
 </div>
 
