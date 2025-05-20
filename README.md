@@ -73,13 +73,13 @@
 
 
 ## Github Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=georgetate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgetate&locale=en&hide_title=false&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ## Links
-<div align="center">
+<div align="left">
   <!-- adding a youtube channel link soon
   <a href="https://www.youtube.com/channel/UCeAj0e_DBIPyrskqIhC44Vw">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=F2E5BC&logoColor=B57614&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
