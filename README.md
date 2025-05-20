@@ -10,61 +10,31 @@
 ## I have experience with
 <div align="left">
  <!-- programming languages -->
- <img src="https://deviconapi.vercel.app/python?color=b57614FF&size=30" alt="python logo" title="Python3"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/python.svg" height="30" alt="python logo" title="Python3"/>
  <img width="12" />
- <img src="https://deviconapi.vercel.app/jupyter?color=b57614FF&size=30" alt="jupyter logo" title="Jupyter Notebooks"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/jupyter.svg" height="30" alt="jupyter logo" title="Jupyter Notebooks"/>
  <img width="12" />
 
  <!-- commandline tools -->
- <img src="https://deviconapi.vercel.app/anaconda?color=b57614FF&size=30" alt="anaconda logo" title="Anaconda"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/anaconda.svg" height="30" alt="anaconda logo" title="Anaconda"/>
  <img width="12" />
- <img src="https://deviconapi.vercel.app/github?color=b57614FF&size=30" alt="github logo" title="Git"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/github.svg" height="30" alt="github logo" title="Git"/>
  <img width="12" />
 
  <!-- code editors -->
- <img src="https://deviconapi.vercel.app/vscode?color=b57614FF&size=30" alt="vscode logo" title="Visual Studio Code"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/vscode.svg" height="30" alt="vscode logo" title="Visual Studio Code"/>
  <img width="12" />
 
  <!-- operating systmes -->
- <img src="https://deviconapi.vercel.app/linux?color=b57614FF&size=30" alt="linux logo" title="Linux"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/linux.svg" height="30" alt="linux logo" title="Linux"/>
  <img width="12" />
- <img src="https://deviconapi.vercel.app/raspberrypi?version=line&color=b57614FF&size=30" alt="raspberrypi logo" title="Raspberry Pi"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/raspberrypi.svg" height="30" alt="raspberrypi logo" title="Raspberry Pi"/>
  <img width="12" />
- <img src="https://deviconapi.vercel.app/ubuntu?color=b57614FF&size=30" alt="ubuntu logo" title="Ubuntu"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/ubuntu.svg" height="30" alt="ubuntu logo" title="Ubuntu"/>
  <img width="12" />
- <img src="https://deviconapi.vercel.app/windows8?color=b57614FF&size=30" alt="windows 11 logo" title="Windows 11"/>
+ <img src="https://github.com/georgetate/georgetate/blob/main/media/windows_11.svg" height="30" alt="windows 11 logo" title="Windows 11"/>
  <img width="12" />
 </div>
-
-## I have experience with
- <div align="left">  
-  <!-- programming languages -->
-  <img alt="Python3" title="Python3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img alt="Jupyter Notebooks" title="Jupyter Notebooks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg?color=fbf1c7FF" height="30" alt="jupyter logo"  />
-  <img width="12" />
-
-  <!-- programming tools -->
-  <img alt="Anaconda" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-
-  <!-- code editors -->
-  <img alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-
-  <!-- operating systems -->
-  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img alt="Raspberry Pi" title="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img alt="Ubuntu" title="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img alt="Windows 11" title="Windows 11" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="windows11 logo"  />
-  <img width="12" />
-</div>
-
 
 ## I would like to learn
 <!-- stuff for creating websites -->
