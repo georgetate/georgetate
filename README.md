@@ -7,9 +7,13 @@
 - [ ] `Differential Equations`
 - [ ] `Statistics`
 
-
+## Testing colorschemes
+<div align="left>
+ <img src="https://deviconapi.vercel.app/python?color=fbf1c7FF&size=29" alt="python" title="python"/>
+ 
+</div>
 ## I have experience with
- <div align="left">
+ <div align="left">  
   <!-- programming languages -->
   <img alt="Python3" title="Python3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -76,21 +80,22 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgetate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgetate&locale=en&hide_title=false&langs_count=5&theme=graywhite&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgetate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgetate&locale=en&hide_title=false&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ## Links
 <div align="center">
-  <!-- adding a youtube channel link soon 
+  <!-- adding a youtube channel link soon
   <a href="https://www.youtube.com/channel/UCeAj0e_DBIPyrskqIhC44Vw">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=F2E5BC&logoColor=B57614&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   -->
+  
 
   <!-- instagram portfolio link -->
   <a href="https://www.instagram.com/georgetate31/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F2E5BC&logoColor=B57614&messageColor=B57614&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
   <!-- adding a personal website portfolio soon
@@ -100,7 +105,10 @@
   -->
 
   <!-- linkedin link -->
-  <a href="https://www.linkedin.com/in/george-tate-7a6595340">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/george-tate-7a6595340">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gVXBsb2FkZWQgdG86%0AIFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9v%0AbHMgLS0%2BCjxzdmcgZmlsbD0iI0I1NzYxNCIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2%0AaWV3Qm94PSIwIDAgMzIgMzIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3Jn%0ALzIwMDAvc3ZnIj4NCjx0aXRsZT5saW5rZWRpbjwvdGl0bGU%2BDQo8cGF0aCBkPSJNMjguNzc4IDEu%0AMDA0aC0yNS41NmMtMC4wMDgtMC0wLjAxNy0wLTAuMDI3LTAtMS4xOTkgMC0yLjE3MiAwLjk2NC0y%0ALjE4NiAyLjE1OXYyNS42NzJjMC4wMTQgMS4xOTYgMC45ODcgMi4xNjEgMi4xODYgMi4xNjEgMC4w%0AMTAgMCAwLjAxOS0wIDAuMDI5LTBoMjUuNTU1YzAuMDA4IDAgMC4wMTggMCAwLjAyOCAwIDEuMiAw%0AIDIuMTc1LTAuOTYzIDIuMTk0LTIuMTU5bDAtMC4wMDJ2LTI1LjY3Yy0wLjAxOS0xLjE5Ny0wLjk5%0ANC0yLjE2MS0yLjE5NS0yLjE2MS0wLjAxMCAwLTAuMDE5IDAtMC4wMjkgMGgwLjAwMXpNOS45IDI2%0ALjU2MmgtNC40NTR2LTE0LjMxMWg0LjQ1NHpNNy42NzQgMTAuMjkzYy0xLjQyNSAwLTIuNTc5LTEu%0AMTU1LTIuNTc5LTIuNTc5czEuMTU1LTIuNTc5IDIuNTc5LTIuNTc5YzEuNDI0IDAgMi41NzkgMS4x%0ANTQgMi41NzkgMi41Nzh2MGMwIDAuMDAxIDAgMC4wMDIgMCAwLjAwNCAwIDEuNDIzLTEuMTU0IDIu%0ANTc3LTIuNTc3IDIuNTc3LTAuMDAxIDAtMC4wMDIgMC0wLjAwMyAwaDB6TTI2LjU1NiAyNi41NjJo%0ALTQuNDQxdi02Ljk1OWMwLTEuNjYtMC4wMzQtMy43OTUtMi4zMTQtMy43OTUtMi4zMTYgMC0yLjY2%0AOSAxLjgwNi0yLjY2OSAzLjY3M3Y3LjA4MmgtNC40NDF2LTE0LjMxMWg0LjI2NnYxLjk1MWgwLjA1%0AOGMwLjgyOC0xLjM5NSAyLjMyNi0yLjMxNSA0LjAzOS0yLjMxNSAwLjA2MSAwIDAuMTIxIDAuMDAx%0AIDAuMTgxIDAuMDAzbC0wLjAwOS0wYzQuNSAwIDUuMzMyIDIuOTYyIDUuMzMyIDYuODE3djcuODU1%0AeiI%2BPC9wYXRoPg0KPC9zdmc%2BCg%3D%3D&label=&color=F2E5BC&logoColor=&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
+
