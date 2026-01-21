@@ -1,10 +1,4 @@
-Hello! 👋
-
----
-
-Welcome to my machine learning portfolio! 
-
-Here you'll find details on both my past and current projects.
+Welcome to my machine learning portfolio! Here you can find technical details on my engineering and data science projects.
 
 ---
 
