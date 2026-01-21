@@ -3,5 +3,5 @@ Welcome to my machine learning portfolio! Here you can find technical details on
 ---
 
 Take a look at my other creative portfolios on Instagram and VSCO!
-- [Instagram](https://www.instagram.com/georgetate31)
-- [VSCO](https://vsco.co/georgetate31)
+- Project Porfolio - [Instagram](https://www.instagram.com/georgetate31)
+- Photography Portfolio - [VSCO](https://vsco.co/georgetate31)
