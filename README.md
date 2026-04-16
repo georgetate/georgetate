@@ -1,7 +1,1 @@
-Welcome to my machine learning portfolio! Here you can find technical details on my engineering and data science projects.
-
----
-
-Take a look at my other creative portfolios on Instagram and VSCO!
-- Project Porfolio - [Instagram](https://www.instagram.com/georgetate31)
-- Photography Portfolio - [VSCO](https://vsco.co/georgetate31)
+Take a look at my repositories if you're interested in the technical details behind certain projects from my [personal portfolio](https://georgetate.github.io/george_tate_portfolio/)!
